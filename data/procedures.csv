@@ -1,0 +1,1301 @@
+claimId,code,description,tooth,surfaces,area,fee
+case-00001,D0120,"periodic oral evaluation, established patient",,,,65
+case-00001,D1110,"prophylaxis, adult",,,,125
+case-00001,D0274,"bitewings, four radiographic images",,,,90
+case-00002,D3320,"endodontic therapy, premolar tooth",21,,,1170
+case-00002,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00003,D2391,"resin-based composite, one surface, posterior",18,O,,195
+case-00003,D2391,"resin-based composite, one surface, posterior",19,L,,195
+case-00004,D0120,"periodic oral evaluation, established patient",,,,60
+case-00004,D1110,"prophylaxis, adult",,,,115
+case-00004,D0274,"bitewings, four radiographic images",,,,70
+case-00005,D2750,"crown, porcelain fused to high noble metal",5,,,1400
+case-00005,D2950,"core buildup, including any pins when required",5,,,315
+case-00006,D2392,"resin-based composite, two surfaces, posterior",3,MO,,245
+case-00006,D2392,"resin-based composite, two surfaces, posterior",5,MO,,245
+case-00006,D2393,"resin-based composite, three surfaces, posterior",31,MOB,,320
+case-00007,D7140,"extraction, erupted tooth or exposed root",20,,,230
+case-00007,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00008,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,205
+case-00008,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,280
+case-00008,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LL,205
+case-00008,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,280
+case-00009,D2740,"crown, porcelain/ceramic",18,,,1545
+case-00009,D2950,"core buildup, including any pins when required",18,,,315
+case-00010,D0150,"comprehensive oral evaluation, new or established patient",,,,115
+case-00010,D0330,panoramic radiographic image,,,,155
+case-00010,D0274,"bitewings, four radiographic images",,,,70
+case-00010,D4355,full mouth debridement to enable a comprehensive evaluation,,,,205
+case-00011,D2740,"crown, porcelain/ceramic",29,,,1200
+case-00011,D2954,prefabricated post and core in addition to crown,29,,,400
+case-00012,D2330,"resin-based composite, one surface, anterior",10,D,,200
+case-00012,D2332,"resin-based composite, three surfaces, anterior",25,DFL,,250
+case-00013,D0120,"periodic oral evaluation, established patient",,,,65
+case-00013,D1110,"prophylaxis, adult",,,,125
+case-00013,D0274,"bitewings, four radiographic images",,,,90
+case-00014,D2331,"resin-based composite, two surfaces, anterior",7,ML,,245
+case-00014,D2330,"resin-based composite, one surface, anterior",9,F,,190
+case-00015,D2391,"resin-based composite, one surface, posterior",14,O,,210
+case-00016,D0120,"periodic oral evaluation, established patient",,,,65
+case-00016,D1110,"prophylaxis, adult",,,,120
+case-00016,D0210,intraoral complete series of radiographic images,,,,160
+case-00017,D0120,"periodic oral evaluation, established patient",,,,65
+case-00017,D1110,"prophylaxis, adult",,,,120
+case-00017,D0274,"bitewings, four radiographic images",,,,90
+case-00017,D1206,topical application of fluoride varnish,,,,45
+case-00018,D3320,"endodontic therapy, premolar tooth",5,,,1145
+case-00018,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00019,D0120,"periodic oral evaluation, established patient",,,,65
+case-00019,D1110,"prophylaxis, adult",,,,135
+case-00020,D0120,"periodic oral evaluation, established patient",,,,65
+case-00020,D1110,"prophylaxis, adult",,,,125
+case-00021,D0120,"periodic oral evaluation, established patient",,,,65
+case-00021,D1110,"prophylaxis, adult",,,,120
+case-00021,D0274,"bitewings, four radiographic images",,,,90
+case-00021,D1206,topical application of fluoride varnish,,,,45
+case-00022,D0120,"periodic oral evaluation, established patient",,,,65
+case-00022,D1120,"prophylaxis, child",,,,90
+case-00022,D1206,topical application of fluoride varnish,,,,40
+case-00022,D0272,"bitewings, two radiographic images",,,,55
+case-00023,D0140,"limited oral evaluation, problem focused",,,,85
+case-00023,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00024,D2740,"crown, porcelain/ceramic",21,,,1200
+case-00024,D2950,"core buildup, including any pins when required",21,,,365
+case-00025,D0120,"periodic oral evaluation, established patient",,,,65
+case-00025,D1110,"prophylaxis, adult",,,,120
+case-00025,D0274,"bitewings, four radiographic images",,,,90
+case-00026,D2740,"crown, porcelain/ceramic",15,,,1200
+case-00027,D0120,"periodic oral evaluation, established patient",,,,60
+case-00027,D1110,"prophylaxis, adult",,,,115
+case-00027,D0274,"bitewings, four radiographic images",,,,70
+case-00028,D3310,"endodontic therapy, anterior tooth",8,,,995
+case-00028,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00029,D2391,"resin-based composite, one surface, posterior",2,B,,215
+case-00029,D2392,"resin-based composite, two surfaces, posterior",12,OD,,240
+case-00029,D2391,"resin-based composite, one surface, posterior",19,B,,215
+case-00030,D0120,"periodic oral evaluation, established patient",,,,65
+case-00030,D1110,"prophylaxis, adult",,,,135
+case-00031,D2392,"resin-based composite, two surfaces, posterior",15,OB,,245
+case-00031,D2150,"amalgam, two surfaces, primary or permanent",30,OD,,205
+case-00032,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00032,D0210,intraoral complete series of radiographic images,,,,150
+case-00032,D4355,full mouth debridement to enable a comprehensive evaluation,,,,210
+case-00033,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",2,,,380
+case-00033,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00034,D3330,"endodontic therapy, molar tooth",31,,,1330
+case-00034,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00035,D2332,"resin-based composite, three surfaces, anterior",7,MFL,,240
+case-00035,D2330,"resin-based composite, one surface, anterior",11,M,,195
+case-00035,D2331,"resin-based composite, two surfaces, anterior",22,MF,,210
+case-00036,D2740,"crown, porcelain/ceramic",13,,,1200
+case-00037,D0120,"periodic oral evaluation, established patient",,,,65
+case-00037,D1110,"prophylaxis, adult",,,,125
+case-00037,D0274,"bitewings, four radiographic images",,,,90
+case-00038,D0120,"periodic oral evaluation, established patient",,,,65
+case-00038,D1110,"prophylaxis, adult",,,,125
+case-00039,D3330,"endodontic therapy, molar tooth",3,,,1280
+case-00039,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00040,D0120,"periodic oral evaluation, established patient",,,,65
+case-00040,D1120,"prophylaxis, child",,,,95
+case-00040,D1206,topical application of fluoride varnish,,,,45
+case-00040,D0272,"bitewings, two radiographic images",,,,55
+case-00041,D3330,"endodontic therapy, molar tooth",30,,,1235
+case-00041,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00042,D2391,"resin-based composite, one surface, posterior",20,B,,220
+case-00042,D2160,"amalgam, three surfaces, primary or permanent",31,MOB,,255
+case-00043,D6057,custom fabricated abutment,18,,,650
+case-00043,D6065,implant supported porcelain/ceramic crown,18,,,1390
+case-00044,D0120,"periodic oral evaluation, established patient",,,,65
+case-00044,D1120,"prophylaxis, child",,,,95
+case-00044,D1206,topical application of fluoride varnish,,,,45
+case-00045,D0120,"periodic oral evaluation, established patient",,,,60
+case-00045,D1120,"prophylaxis, child",,,,80
+case-00045,D1206,topical application of fluoride varnish,,,,45
+case-00045,D0274,"bitewings, four radiographic images",,,,70
+case-00045,D1351,"sealant, per tooth",3,O,,60
+case-00045,D1351,"sealant, per tooth",30,O,,60
+case-00046,D2391,"resin-based composite, one surface, posterior",5,B,,210
+case-00046,D2392,"resin-based composite, two surfaces, posterior",29,OB,,255
+case-00047,D0120,"periodic oral evaluation, established patient",,,,65
+case-00047,D1110,"prophylaxis, adult",,,,120
+case-00047,D0274,"bitewings, four radiographic images",,,,90
+case-00048,D2740,"crown, porcelain/ceramic",5,,,1325
+case-00049,D2393,"resin-based composite, three surfaces, posterior",2,DOL,,315
+case-00049,D2393,"resin-based composite, three surfaces, posterior",13,MOD,,315
+case-00050,D0120,"periodic oral evaluation, established patient",,,,60
+case-00050,D1110,"prophylaxis, adult",,,,115
+case-00051,D0140,"limited oral evaluation, problem focused",,,,100
+case-00051,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00051,D0230,"intraoral periapical, each additional image",,,,35
+case-00051,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00052,D0120,"periodic oral evaluation, established patient",,,,65
+case-00052,D1110,"prophylaxis, adult",,,,125
+case-00052,D0274,"bitewings, four radiographic images",,,,90
+case-00053,D2391,"resin-based composite, one surface, posterior",2,L,,215
+case-00053,D2392,"resin-based composite, two surfaces, posterior",4,OD,,240
+case-00054,D0140,"limited oral evaluation, problem focused",,,,85
+case-00054,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00054,D3220,therapeutic pulpotomy,30,,,185
+case-00054,D9110,"palliative treatment of dental pain, per visit",,,,130
+case-00055,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00055,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00056,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,280
+case-00056,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,280
+case-00057,D2740,"crown, porcelain/ceramic",18,,,1545
+case-00057,D2950,"core buildup, including any pins when required",18,,,315
+case-00058,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00058,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00059,D0120,"periodic oral evaluation, established patient",,,,65
+case-00059,D1110,"prophylaxis, adult",,,,125
+case-00059,D0210,intraoral complete series of radiographic images,,,,160
+case-00060,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00060,D0210,intraoral complete series of radiographic images,,,,150
+case-00060,D4355,full mouth debridement to enable a comprehensive evaluation,,,,210
+case-00061,D7140,"extraction, erupted tooth or exposed root",28,,,230
+case-00061,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00061,D7953,"bone replacement graft for ridge preservation, per site",28,,,550
+case-00062,D0140,"limited oral evaluation, problem focused",,,,90
+case-00062,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00062,D2940,protective restoration,18,,,100
+case-00063,D2750,"crown, porcelain fused to high noble metal",15,,,1165
+case-00063,D2950,"core buildup, including any pins when required",15,,,365
+case-00064,D0120,"periodic oral evaluation, established patient",,,,60
+case-00064,D1110,"prophylaxis, adult",,,,115
+case-00064,D0210,intraoral complete series of radiographic images,,,,170
+case-00065,D2750,"crown, porcelain fused to high noble metal",21,,,1205
+case-00065,D2950,"core buildup, including any pins when required",21,,,380
+case-00066,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00066,D0330,panoramic radiographic image,,,,150
+case-00066,D0274,"bitewings, four radiographic images",,,,90
+case-00066,D1110,"prophylaxis, adult",,,,120
+case-00067,D2740,"crown, porcelain/ceramic",4,,,1545
+case-00067,D2950,"core buildup, including any pins when required",4,,,315
+case-00068,D2391,"resin-based composite, one surface, posterior",15,B,,215
+case-00069,D2160,"amalgam, three surfaces, primary or permanent",15,DOL,,255
+case-00070,D0140,"limited oral evaluation, problem focused",,,,100
+case-00070,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00070,D7140,"extraction, erupted tooth or exposed root",30,,,180
+case-00071,D0140,"limited oral evaluation, problem focused",,,,100
+case-00071,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00071,D7140,"extraction, erupted tooth or exposed root",4,,,180
+case-00072,D2740,"crown, porcelain/ceramic",30,,,1200
+case-00072,D2950,"core buildup, including any pins when required",30,,,315
+case-00073,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,275
+case-00073,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00074,D2391,"resin-based composite, one surface, posterior",15,L,,210
+case-00074,D2391,"resin-based composite, one surface, posterior",21,O,,210
+case-00074,D2391,"resin-based composite, one surface, posterior",29,O,,210
+case-00075,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00075,D0210,intraoral complete series of radiographic images,,,,160
+case-00075,D1110,"prophylaxis, adult",,,,120
+case-00076,D2392,"resin-based composite, two surfaces, posterior",2,OB,,245
+case-00076,D2392,"resin-based composite, two surfaces, posterior",5,MO,,245
+case-00076,D2391,"resin-based composite, one surface, posterior",31,O,,220
+case-00077,D0140,"limited oral evaluation, problem focused",,,,100
+case-00077,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00078,D0120,"periodic oral evaluation, established patient",,,,65
+case-00078,D1120,"prophylaxis, child",,,,100
+case-00078,D1206,topical application of fluoride varnish,,,,55
+case-00078,D0274,"bitewings, four radiographic images",,,,90
+case-00079,D2391,"resin-based composite, one surface, posterior",28,B,,195
+case-00080,D0120,"periodic oral evaluation, established patient",,,,65
+case-00080,D1110,"prophylaxis, adult",,,,135
+case-00080,D0274,"bitewings, four radiographic images",,,,95
+case-00080,D1206,topical application of fluoride varnish,,,,40
+case-00081,D2740,"crown, porcelain/ceramic",18,,,1325
+case-00082,D0120,"periodic oral evaluation, established patient",,,,60
+case-00082,D1110,"prophylaxis, adult",,,,115
+case-00082,D0274,"bitewings, four radiographic images",,,,70
+case-00083,D2740,"crown, porcelain/ceramic",20,,,1200
+case-00083,D2954,prefabricated post and core in addition to crown,20,,,435
+case-00084,D2393,"resin-based composite, three surfaces, posterior",5,MOD,,330
+case-00084,D2393,"resin-based composite, three surfaces, posterior",31,MOD,,330
+case-00085,D2391,"resin-based composite, one surface, posterior",29,O,,210
+case-00086,D0140,"limited oral evaluation, problem focused",,,,90
+case-00086,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00086,D7140,"extraction, erupted tooth or exposed root",20,,,230
+case-00087,D0140,"limited oral evaluation, problem focused",,,,90
+case-00087,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00087,D9110,"palliative treatment of dental pain, per visit",,,,150
+case-00088,D7140,"extraction, erupted tooth or exposed root",,,,230
+case-00088,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00089,D0120,"periodic oral evaluation, established patient",,,,65
+case-00089,D1120,"prophylaxis, child",,,,90
+case-00089,D1208,"topical application of fluoride, excluding varnish",,,,40
+case-00089,D0274,"bitewings, four radiographic images",,,,95
+case-00089,D1351,"sealant, per tooth",15,O,,60
+case-00089,D1351,"sealant, per tooth",19,O,,60
+case-00090,D3330,"endodontic therapy, molar tooth",15,,,1235
+case-00090,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00091,D0120,"periodic oral evaluation, established patient",,,,60
+case-00091,D1110,"prophylaxis, adult",,,,115
+case-00091,D0274,"bitewings, four radiographic images",,,,70
+case-00092,D0120,"periodic oral evaluation, established patient",,,,65
+case-00092,D1110,"prophylaxis, adult",,,,125
+case-00093,D4910,periodontal maintenance,,,,150
+case-00093,D0120,"periodic oral evaluation, established patient",,,,65
+case-00093,D0274,"bitewings, four radiographic images",,,,95
+case-00094,D2740,"crown, porcelain/ceramic",29,,,1200
+case-00095,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00095,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00096,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00096,D0210,intraoral complete series of radiographic images,,,,160
+case-00096,D1110,"prophylaxis, adult",,,,120
+case-00097,D0120,"periodic oral evaluation, established patient",,,,65
+case-00097,D1110,"prophylaxis, adult",,,,120
+case-00097,D0274,"bitewings, four radiographic images",,,,90
+case-00097,D1206,topical application of fluoride varnish,,,,45
+case-00098,D7140,"extraction, erupted tooth or exposed root",19,,,240
+case-00098,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00099,D2392,"resin-based composite, two surfaces, posterior",21,MO,,245
+case-00099,D2391,"resin-based composite, one surface, posterior",28,B,,220
+case-00100,D0150,"comprehensive oral evaluation, new or established patient",,,,115
+case-00100,D0210,intraoral complete series of radiographic images,,,,170
+case-00100,D1110,"prophylaxis, adult",,,,115
+case-00101,D2392,"resin-based composite, two surfaces, posterior",20,OD,,270
+case-00101,D2391,"resin-based composite, one surface, posterior",28,O,,195
+case-00102,D2740,"crown, porcelain/ceramic",12,,,1545
+case-00102,D2950,"core buildup, including any pins when required",12,,,315
+case-00103,D2740,"crown, porcelain/ceramic",15,,,1200
+case-00103,D2950,"core buildup, including any pins when required",15,,,365
+case-00104,D0120,"periodic oral evaluation, established patient",,,,65
+case-00104,D1110,"prophylaxis, adult",,,,120
+case-00105,D0120,"periodic oral evaluation, established patient",,,,65
+case-00105,D1120,"prophylaxis, child",,,,95
+case-00105,D1206,topical application of fluoride varnish,,,,45
+case-00105,D1351,"sealant, per tooth",3,O,,55
+case-00105,D1351,"sealant, per tooth",14,O,,55
+case-00105,D1351,"sealant, per tooth",19,O,,55
+case-00106,D2392,"resin-based composite, two surfaces, posterior",3,MO,,245
+case-00106,D2391,"resin-based composite, one surface, posterior",15,B,,220
+case-00107,D2392,"resin-based composite, two surfaces, posterior",2,MO,,240
+case-00107,D2393,"resin-based composite, three surfaces, posterior",30,MOB,,315
+case-00108,D2391,"resin-based composite, one surface, posterior",2,L,,195
+case-00108,D2392,"resin-based composite, two surfaces, posterior",28,OB,,270
+case-00108,D2391,"resin-based composite, one surface, posterior",31,O,,195
+case-00109,D9940,"occlusal guard, by report",,,maxillary,690
+case-00110,D0120,"periodic oral evaluation, established patient",,,,65
+case-00110,D1110,"prophylaxis, adult",,,,120
+case-00110,D0274,"bitewings, four radiographic images",,,,90
+case-00111,D0120,"periodic oral evaluation, established patient",,,,60
+case-00111,D1110,"prophylaxis, adult",,,,115
+case-00111,D0274,"bitewings, four radiographic images",,,,70
+case-00112,D2330,"resin-based composite, one surface, anterior",7,L,,175
+case-00112,D2331,"resin-based composite, two surfaces, anterior",25,DL,,230
+case-00113,D0120,"periodic oral evaluation, established patient",,,,60
+case-00113,D1110,"prophylaxis, adult",,,,115
+case-00113,D0274,"bitewings, four radiographic images",,,,70
+case-00114,D6010,"surgical placement of implant body, endosteal",3,,,2205
+case-00115,D0330,panoramic radiographic image,,,,150
+case-00115,D7230,"removal of impacted tooth, partially bony",1,,,555
+case-00115,D7240,"removal of impacted tooth, completely bony",16,,,540
+case-00115,D7230,"removal of impacted tooth, partially bony",17,,,555
+case-00115,D7230,"removal of impacted tooth, partially bony",32,,,555
+case-00116,D2140,"amalgam, one surface, primary or permanent",5,L,,160
+case-00116,D2392,"resin-based composite, two surfaces, posterior",18,OD,,245
+case-00117,D0120,"periodic oral evaluation, established patient",,,,65
+case-00117,D1110,"prophylaxis, adult",,,,120
+case-00117,D0274,"bitewings, four radiographic images",,,,90
+case-00117,D1206,topical application of fluoride varnish,,,,45
+case-00118,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,230
+case-00118,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,275
+case-00118,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,275
+case-00118,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LR,230
+case-00119,D0120,"periodic oral evaluation, established patient",,,,65
+case-00119,D1110,"prophylaxis, adult",,,,125
+case-00120,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,230
+case-00120,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,275
+case-00120,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LL,230
+case-00120,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00121,D2740,"crown, porcelain/ceramic",,,,1545
+case-00122,D3330,"endodontic therapy, molar tooth",15,,,1330
+case-00122,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00123,D4910,periodontal maintenance,,,,155
+case-00123,D0120,"periodic oral evaluation, established patient",,,,65
+case-00124,D6750,"retainer crown, porcelain fused to high noble metal",29,,,1440
+case-00124,D6240,"pontic, porcelain fused to high noble metal",30,,,1320
+case-00124,D6750,"retainer crown, porcelain fused to high noble metal",31,,,1440
+case-00125,D0120,"periodic oral evaluation, established patient",,,,65
+case-00125,D1110,"prophylaxis, adult",,,,125
+case-00125,D0274,"bitewings, four radiographic images",,,,90
+case-00125,D1206,topical application of fluoride varnish,,,,55
+case-00126,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00126,D0330,panoramic radiographic image,,,,155
+case-00126,D0274,"bitewings, four radiographic images",,,,95
+case-00126,D4355,full mouth debridement to enable a comprehensive evaluation,,,,210
+case-00127,D2740,"crown, porcelain/ceramic",29,,,1200
+case-00127,D2950,"core buildup, including any pins when required",29,,,365
+case-00128,D2393,"resin-based composite, three surfaces, posterior",28,MOB,,320
+case-00129,D0120,"periodic oral evaluation, established patient",,,,65
+case-00129,D1110,"prophylaxis, adult",,,,125
+case-00130,D2392,"resin-based composite, two surfaces, posterior",2,MO,,245
+case-00130,D2140,"amalgam, one surface, primary or permanent",19,O,,160
+case-00130,D2140,"amalgam, one surface, primary or permanent",21,O,,160
+case-00131,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,305
+case-00131,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,305
+case-00132,D2391,"resin-based composite, one surface, posterior",5,O,,215
+case-00132,D2140,"amalgam, one surface, primary or permanent",13,O,,140
+case-00132,D2391,"resin-based composite, one surface, posterior",28,O,,215
+case-00133,D0140,"limited oral evaluation, problem focused",,,,90
+case-00133,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00133,D3220,therapeutic pulpotomy,30,,,225
+case-00134,D3320,"endodontic therapy, premolar tooth",20,,,1010
+case-00134,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00135,D0120,"periodic oral evaluation, established patient",,,,65
+case-00135,D1120,"prophylaxis, child",,,,90
+case-00135,D1206,topical application of fluoride varnish,,,,40
+case-00136,D2750,"crown, porcelain fused to high noble metal",12,,,1165
+case-00136,D2954,prefabricated post and core in addition to crown,12,,,400
+case-00137,D2391,"resin-based composite, one surface, posterior",30,L,,220
+case-00138,D3320,"endodontic therapy, premolar tooth",13,,,1170
+case-00138,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00139,D9944,"occlusal guard, hard appliance, full arch",,,maxillary,645
+case-00140,D2740,"crown, porcelain/ceramic",,,,1325
+case-00141,D0120,"periodic oral evaluation, established patient",,,,65
+case-00141,D1110,"prophylaxis, adult",,,,135
+case-00141,D0210,intraoral complete series of radiographic images,,,,150
+case-00141,D1206,topical application of fluoride varnish,,,,40
+case-00142,D0120,"periodic oral evaluation, established patient",,,,65
+case-00142,D1110,"prophylaxis, adult",,,,135
+case-00142,D0274,"bitewings, four radiographic images",,,,95
+case-00143,D0120,"periodic oral evaluation, established patient",,,,65
+case-00143,D1110,"prophylaxis, adult",,,,125
+case-00143,D0274,"bitewings, four radiographic images",,,,90
+case-00144,D9940,"occlusal guard, by report",,,mandibular,580
+case-00145,D0120,"periodic oral evaluation, established patient",,,,65
+case-00145,D1120,"prophylaxis, child",,,,95
+case-00145,D1206,topical application of fluoride varnish,,,,45
+case-00146,D0120,"periodic oral evaluation, established patient",,,,65
+case-00146,D1110,"prophylaxis, adult",,,,135
+case-00146,D0210,intraoral complete series of radiographic images,,,,150
+case-00146,D1206,topical application of fluoride varnish,,,,40
+case-00147,D2392,"resin-based composite, two surfaces, posterior",2,OB,,270
+case-00147,D2150,"amalgam, two surfaces, primary or permanent",21,OD,,205
+case-00148,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,305
+case-00148,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,305
+case-00148,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,305
+case-00148,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,305
+case-00149,D2391,"resin-based composite, one surface, posterior",2,L,,220
+case-00149,D2392,"resin-based composite, two surfaces, posterior",12,OB,,245
+case-00149,D2391,"resin-based composite, one surface, posterior",29,O,,220
+case-00150,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00150,D0210,intraoral complete series of radiographic images,,,,150
+case-00150,D4355,full mouth debridement to enable a comprehensive evaluation,,,,210
+case-00151,D7140,"extraction, erupted tooth or exposed root",31,,,230
+case-00151,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00152,D2740,"crown, porcelain/ceramic",21,,,1200
+case-00153,D0140,"limited oral evaluation, problem focused",,,,100
+case-00153,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00154,D2740,"crown, porcelain/ceramic",5,,,1325
+case-00154,D2950,"core buildup, including any pins when required",5,,,380
+case-00155,D0120,"periodic oral evaluation, established patient",,,,65
+case-00155,D1120,"prophylaxis, child",,,,95
+case-00155,D1206,topical application of fluoride varnish,,,,45
+case-00155,D1351,"sealant, per tooth",3,O,,55
+case-00155,D1351,"sealant, per tooth",14,O,,55
+case-00155,D1351,"sealant, per tooth",19,O,,55
+case-00155,D1351,"sealant, per tooth",30,O,,55
+case-00156,D2391,"resin-based composite, one surface, posterior",18,B,,195
+case-00157,D2332,"resin-based composite, three surfaces, anterior",,,,250
+case-00157,D2331,"resin-based composite, two surfaces, anterior",25,DL,,215
+case-00157,D2330,"resin-based composite, one surface, anterior",26,F,,200
+case-00158,D0120,"periodic oral evaluation, established patient",,,,65
+case-00158,D1110,"prophylaxis, adult",,,,135
+case-00159,D0120,"periodic oral evaluation, established patient",,,,65
+case-00159,D1110,"prophylaxis, adult",,,,120
+case-00160,D2740,"crown, porcelain/ceramic",15,,,1200
+case-00160,D2950,"core buildup, including any pins when required",15,,,315
+case-00161,D0120,"periodic oral evaluation, established patient",,,,65
+case-00161,D1110,"prophylaxis, adult",,,,135
+case-00162,D2393,"resin-based composite, three surfaces, posterior",14,MOD,,330
+case-00163,D0140,"limited oral evaluation, problem focused",,,,90
+case-00163,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00163,D9110,"palliative treatment of dental pain, per visit",,,,120
+case-00164,D2740,"crown, porcelain/ceramic",31,,,1200
+case-00164,D2950,"core buildup, including any pins when required",31,,,315
+case-00165,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,225
+case-00165,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,305
+case-00166,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,225
+case-00166,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,305
+case-00166,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LL,225
+case-00166,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,305
+case-00167,D2391,"resin-based composite, one surface, posterior",19,O,,215
+case-00168,D3320,"endodontic therapy, premolar tooth",13,,,1035
+case-00168,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00169,D0140,"limited oral evaluation, problem focused",,,,90
+case-00169,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00170,D0120,"periodic oral evaluation, established patient",,,,65
+case-00170,D1110,"prophylaxis, adult",,,,125
+case-00170,D0274,"bitewings, four radiographic images",,,,90
+case-00171,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,275
+case-00171,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,275
+case-00171,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,275
+case-00171,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LR,230
+case-00171,D4381,"localized delivery of antimicrobial agents, per tooth",2,,,95
+case-00172,D3330,"endodontic therapy, molar tooth",15,,,1330
+case-00172,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00173,D0120,"periodic oral evaluation, established patient",,,,60
+case-00173,D1110,"prophylaxis, adult",,,,115
+case-00173,D0210,intraoral complete series of radiographic images,,,,170
+case-00173,D1206,topical application of fluoride varnish,,,,45
+case-00174,D2750,"crown, porcelain fused to high noble metal",14,,,1370
+case-00174,D2950,"core buildup, including any pins when required",14,,,315
+case-00175,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00175,D0210,intraoral complete series of radiographic images,,,,160
+case-00175,D1110,"prophylaxis, adult",,,,125
+case-00176,D0140,"limited oral evaluation, problem focused",,,,85
+case-00176,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00177,D2392,"resin-based composite, two surfaces, posterior",30,OB,,245
+case-00178,D0120,"periodic oral evaluation, established patient",,,,65
+case-00178,D1110,"prophylaxis, adult",,,,120
+case-00179,D0120,"periodic oral evaluation, established patient",,,,65
+case-00179,D1110,"prophylaxis, adult",,,,120
+case-00179,D0274,"bitewings, four radiographic images",,,,90
+case-00180,D0120,"periodic oral evaluation, established patient",,,,60
+case-00180,D1110,"prophylaxis, adult",,,,115
+case-00180,D0274,"bitewings, four radiographic images",,,,70
+case-00181,D0120,"periodic oral evaluation, established patient",,,,65
+case-00181,D1110,"prophylaxis, adult",,,,120
+case-00181,D0274,"bitewings, four radiographic images",,,,90
+case-00182,D2393,"resin-based composite, three surfaces, posterior",30,MOB,,315
+case-00183,D5214,"mandibular partial denture, cast metal framework",,,mandibular,2285
+case-00184,D0140,"limited oral evaluation, problem focused",,,,90
+case-00184,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00184,D9110,"palliative treatment of dental pain, per visit",,,,150
+case-00185,D0140,"limited oral evaluation, problem focused",,,,100
+case-00185,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00185,D2940,protective restoration,21,,,120
+case-00186,D0120,"periodic oral evaluation, established patient",,,,65
+case-00186,D1110,"prophylaxis, adult",,,,125
+case-00186,D0274,"bitewings, four radiographic images",,,,90
+case-00187,D0120,"periodic oral evaluation, established patient",,,,65
+case-00187,D1120,"prophylaxis, child",,,,100
+case-00187,D1208,"topical application of fluoride, excluding varnish",,,,35
+case-00188,D0140,"limited oral evaluation, problem focused",,,,90
+case-00188,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00188,D9110,"palliative treatment of dental pain, per visit",,,,120
+case-00189,D2392,"resin-based composite, two surfaces, posterior",28,OD,,255
+case-00190,D0120,"periodic oral evaluation, established patient",,,,65
+case-00190,D1120,"prophylaxis, child",,,,95
+case-00190,D1206,topical application of fluoride varnish,,,,45
+case-00190,D0274,"bitewings, four radiographic images",,,,90
+case-00190,D1351,"sealant, per tooth",14,O,,55
+case-00190,D1351,"sealant, per tooth",19,O,,55
+case-00190,D1351,"sealant, per tooth",30,O,,55
+case-00191,D2740,"crown, porcelain/ceramic",14,,,1325
+case-00191,D2950,"core buildup, including any pins when required",14,,,380
+case-00192,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UL,225
+case-00192,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00193,D2391,"resin-based composite, one surface, posterior",4,L,,210
+case-00193,D2392,"resin-based composite, two surfaces, posterior",31,OD,,255
+case-00194,D2150,"amalgam, two surfaces, primary or permanent",20,MO,,205
+case-00195,D6750,"retainer crown, porcelain fused to high noble metal",2,,,1195
+case-00195,D6240,"pontic, porcelain fused to high noble metal",3,,,1165
+case-00195,D6750,"retainer crown, porcelain fused to high noble metal",4,,,1195
+case-00196,D6010,"surgical placement of implant body, endosteal",28,,,2655
+case-00197,D0120,"periodic oral evaluation, established patient",,,,65
+case-00197,D1110,"prophylaxis, adult",,,,125
+case-00198,D4910,periodontal maintenance,,,,150
+case-00198,D0120,"periodic oral evaluation, established patient",,,,65
+case-00199,D2740,"crown, porcelain/ceramic",12,,,1545
+case-00200,D0120,"periodic oral evaluation, established patient",,,,65
+case-00200,D1110,"prophylaxis, adult",,,,120
+case-00201,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,280
+case-00201,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,280
+case-00201,D4381,"localized delivery of antimicrobial agents, per tooth",3,,,95
+case-00202,D2750,"crown, porcelain fused to high noble metal",21,,,1400
+case-00202,D2950,"core buildup, including any pins when required",21,,,315
+case-00203,D0140,"limited oral evaluation, problem focused",,,,100
+case-00203,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00203,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00204,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00204,D0210,intraoral complete series of radiographic images,,,,160
+case-00204,D1110,"prophylaxis, adult",,,,125
+case-00205,D6057,custom fabricated abutment,21,,,710
+case-00205,D6065,implant supported porcelain/ceramic crown,21,,,1585
+case-00206,D0330,panoramic radiographic image,,,,155
+case-00206,D7240,"removal of impacted tooth, completely bony",1,,,575
+case-00206,D7230,"removal of impacted tooth, partially bony",16,,,465
+case-00206,D7220,"removal of impacted tooth, soft tissue",17,,,395
+case-00206,D7220,"removal of impacted tooth, soft tissue",32,,,395
+case-00206,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,85
+case-00207,D2740,"crown, porcelain/ceramic",21,,,1200
+case-00207,D2950,"core buildup, including any pins when required",21,,,315
+case-00208,D0140,"limited oral evaluation, problem focused",,,,90
+case-00208,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00208,D0230,"intraoral periapical, each additional image",,,,35
+case-00208,D9110,"palliative treatment of dental pain, per visit",,,,150
+case-00209,D0120,"periodic oral evaluation, established patient",,,,65
+case-00209,D1110,"prophylaxis, adult",,,,120
+case-00209,D0274,"bitewings, four radiographic images",,,,90
+case-00210,D2740,"crown, porcelain/ceramic",31,,,1545
+case-00211,D0140,"limited oral evaluation, problem focused",,,,90
+case-00211,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00211,D9110,"palliative treatment of dental pain, per visit",,,,150
+case-00212,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00212,D0210,intraoral complete series of radiographic images,,,,160
+case-00212,D4355,full mouth debridement to enable a comprehensive evaluation,,,,225
+case-00213,D6010,"surgical placement of implant body, endosteal",13,,,2655
+case-00214,D0120,"periodic oral evaluation, established patient",,,,65
+case-00214,D1120,"prophylaxis, child",,,,90
+case-00214,D1206,topical application of fluoride varnish,,,,40
+case-00214,D0272,"bitewings, two radiographic images",,,,55
+case-00215,D2740,"crown, porcelain/ceramic",29,,,1325
+case-00216,D0120,"periodic oral evaluation, established patient",,,,60
+case-00216,D1110,"prophylaxis, adult",,,,115
+case-00216,D0274,"bitewings, four radiographic images",,,,70
+case-00217,D2750,"crown, porcelain fused to high noble metal",15,,,1400
+case-00217,D2950,"core buildup, including any pins when required",15,,,315
+case-00218,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,280
+case-00218,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,280
+case-00219,D0120,"periodic oral evaluation, established patient",,,,65
+case-00219,D1110,"prophylaxis, adult",,,,135
+case-00219,D0210,intraoral complete series of radiographic images,,,,150
+case-00220,D0120,"periodic oral evaluation, established patient",,,,65
+case-00220,D1120,"prophylaxis, child",,,,100
+case-00220,D1206,topical application of fluoride varnish,,,,55
+case-00220,D0274,"bitewings, four radiographic images",,,,90
+case-00220,D1351,"sealant, per tooth",14,O,,60
+case-00220,D1351,"sealant, per tooth",19,O,,60
+case-00220,D1351,"sealant, per tooth",30,O,,60
+case-00221,D0140,"limited oral evaluation, problem focused",,,,85
+case-00221,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00221,D0230,"intraoral periapical, each additional image",,,,35
+case-00221,D9110,"palliative treatment of dental pain, per visit",,,,130
+case-00222,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,275
+case-00222,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00223,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",19,,,390
+case-00223,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00224,D2330,"resin-based composite, one surface, anterior",23,D,,190
+case-00224,D2330,"resin-based composite, one surface, anterior",26,D,,190
+case-00225,D0140,"limited oral evaluation, problem focused",,,,85
+case-00225,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00225,D7140,"extraction, erupted tooth or exposed root",20,,,240
+case-00226,D2392,"resin-based composite, two surfaces, posterior",29,OD,,245
+case-00227,D0120,"periodic oral evaluation, established patient",,,,65
+case-00227,D1120,"prophylaxis, child",,,,100
+case-00227,D1206,topical application of fluoride varnish,,,,55
+case-00227,D0274,"bitewings, four radiographic images",,,,90
+case-00227,D1351,"sealant, per tooth",3,O,,60
+case-00227,D1351,"sealant, per tooth",30,O,,60
+case-00228,D0120,"periodic oral evaluation, established patient",,,,65
+case-00228,D1110,"prophylaxis, adult",,,,135
+case-00228,D0274,"bitewings, four radiographic images",,,,95
+case-00229,D0140,"limited oral evaluation, problem focused",,,,90
+case-00229,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00230,D2740,"crown, porcelain/ceramic",30,,,1200
+case-00230,D2950,"core buildup, including any pins when required",30,,,315
+case-00231,D2740,"crown, porcelain/ceramic",29,,,1545
+case-00231,D2950,"core buildup, including any pins when required",29,,,315
+case-00232,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",5,,,345
+case-00232,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00232,D7953,"bone replacement graft for ridge preservation, per site",5,,,550
+case-00233,D0120,"periodic oral evaluation, established patient",,,,60
+case-00233,D1120,"prophylaxis, child",,,,80
+case-00233,D1206,topical application of fluoride varnish,,,,45
+case-00233,D1351,"sealant, per tooth",14,O,,60
+case-00233,D1351,"sealant, per tooth",31,O,,60
+case-00234,D2740,"crown, porcelain/ceramic",,,,1200
+case-00234,D2950,"core buildup, including any pins when required",13,,,315
+case-00235,D0330,panoramic radiographic image,,,,155
+case-00235,D7240,"removal of impacted tooth, completely bony",1,,,575
+case-00235,D7240,"removal of impacted tooth, completely bony",16,,,575
+case-00235,D7240,"removal of impacted tooth, completely bony",17,,,575
+case-00235,D7230,"removal of impacted tooth, partially bony",32,,,465
+case-00235,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,85
+case-00236,D2392,"resin-based composite, two surfaces, posterior",13,MO,,240
+case-00237,D0120,"periodic oral evaluation, established patient",,,,65
+case-00237,D1110,"prophylaxis, adult",,,,135
+case-00238,D0120,"periodic oral evaluation, established patient",,,,60
+case-00238,D1120,"prophylaxis, child",,,,80
+case-00238,D1206,topical application of fluoride varnish,,,,45
+case-00238,D0274,"bitewings, four radiographic images",,,,70
+case-00239,D2140,"amalgam, one surface, primary or permanent",4,O,,170
+case-00239,D2140,"amalgam, one surface, primary or permanent",12,O,,170
+case-00240,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",13,,,380
+case-00240,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00240,D7953,"bone replacement graft for ridge preservation, per site",13,,,450
+case-00241,D3310,"endodontic therapy, anterior tooth",9,,,995
+case-00241,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00242,D2750,"crown, porcelain fused to high noble metal",13,,,1400
+case-00242,D2950,"core buildup, including any pins when required",13,,,315
+case-00243,D6750,"retainer crown, porcelain fused to high noble metal",27,,,1195
+case-00243,D6240,"pontic, porcelain fused to high noble metal",28,,,1165
+case-00243,D6750,"retainer crown, porcelain fused to high noble metal",29,,,1195
+case-00244,D2392,"resin-based composite, two surfaces, posterior",,,,245
+case-00245,D0120,"periodic oral evaluation, established patient",,,,65
+case-00245,D1120,"prophylaxis, child",,,,100
+case-00245,D1206,topical application of fluoride varnish,,,,55
+case-00245,D0272,"bitewings, two radiographic images",,,,55
+case-00245,D1351,"sealant, per tooth",14,O,,60
+case-00245,D1351,"sealant, per tooth",19,O,,60
+case-00245,D1351,"sealant, per tooth",30,O,,60
+case-00246,D6057,custom fabricated abutment,14,,,815
+case-00246,D6065,implant supported porcelain/ceramic crown,14,,,1770
+case-00247,D0330,panoramic radiographic image,,,,150
+case-00247,D7220,"removal of impacted tooth, soft tissue",1,,,375
+case-00247,D7240,"removal of impacted tooth, completely bony",16,,,540
+case-00247,D7240,"removal of impacted tooth, completely bony",17,,,540
+case-00247,D7220,"removal of impacted tooth, soft tissue",32,,,375
+case-00247,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,75
+case-00248,D0120,"periodic oral evaluation, established patient",,,,65
+case-00248,D1120,"prophylaxis, child",,,,95
+case-00248,D1206,topical application of fluoride varnish,,,,45
+case-00248,D0274,"bitewings, four radiographic images",,,,90
+case-00248,D1351,"sealant, per tooth",14,O,,55
+case-00248,D1351,"sealant, per tooth",18,O,,55
+case-00248,D1351,"sealant, per tooth",19,O,,55
+case-00248,D1351,"sealant, per tooth",30,O,,55
+case-00249,D2740,"crown, porcelain/ceramic",3,,,1200
+case-00249,D2950,"core buildup, including any pins when required",3,,,365
+case-00250,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00250,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00251,D2750,"crown, porcelain fused to high noble metal",29,,,1205
+case-00251,D2950,"core buildup, including any pins when required",29,,,380
+case-00252,D0120,"periodic oral evaluation, established patient",,,,60
+case-00252,D1110,"prophylaxis, adult",,,,115
+case-00252,D0274,"bitewings, four radiographic images",,,,70
+case-00252,D1206,topical application of fluoride varnish,,,,45
+case-00253,D2750,"crown, porcelain fused to high noble metal",12,,,1400
+case-00254,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,305
+case-00254,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LR,225
+case-00255,D2393,"resin-based composite, three surfaces, posterior",3,MOD,,320
+case-00255,D2160,"amalgam, three surfaces, primary or permanent",19,MOB,,255
+case-00256,D2393,"resin-based composite, three surfaces, posterior",2,MOB,,320
+case-00256,D2392,"resin-based composite, two surfaces, posterior",3,MO,,245
+case-00256,D2391,"resin-based composite, one surface, posterior",20,O,,220
+case-00257,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,305
+case-00257,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,305
+case-00257,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LL,225
+case-00257,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,305
+case-00258,D0140,"limited oral evaluation, problem focused",,,,90
+case-00258,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00258,D3220,therapeutic pulpotomy,3,,,195
+case-00259,D0120,"periodic oral evaluation, established patient",,,,65
+case-00259,D1120,"prophylaxis, child",,,,100
+case-00259,D1206,topical application of fluoride varnish,,,,55
+case-00259,D0274,"bitewings, four radiographic images",,,,90
+case-00260,D2740,"crown, porcelain/ceramic",15,,,1200
+case-00261,D0120,"periodic oral evaluation, established patient",,,,65
+case-00261,D1110,"prophylaxis, adult",,,,125
+case-00261,D0274,"bitewings, four radiographic images",,,,90
+case-00262,D4910,periodontal maintenance,,,,155
+case-00262,D0120,"periodic oral evaluation, established patient",,,,65
+case-00262,D0274,"bitewings, four radiographic images",,,,90
+case-00263,D2740,"crown, porcelain/ceramic",28,,,1200
+case-00263,D2950,"core buildup, including any pins when required",28,,,315
+case-00264,D0330,panoramic radiographic image,,,,155
+case-00264,D7230,"removal of impacted tooth, partially bony",1,,,465
+case-00264,D7230,"removal of impacted tooth, partially bony",16,,,465
+case-00264,D7240,"removal of impacted tooth, completely bony",17,,,575
+case-00264,D7230,"removal of impacted tooth, partially bony",32,,,465
+case-00264,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,85
+case-00265,D2392,"resin-based composite, two surfaces, posterior",12,MO,,270
+case-00266,D0140,"limited oral evaluation, problem focused",,,,90
+case-00266,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00267,D2750,"crown, porcelain fused to high noble metal",12,,,1370
+case-00267,D2950,"core buildup, including any pins when required",12,,,315
+case-00268,D7140,"extraction, erupted tooth or exposed root",,,,240
+case-00268,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00269,D4910,periodontal maintenance,,,,150
+case-00269,D0120,"periodic oral evaluation, established patient",,,,65
+case-00269,D0274,"bitewings, four radiographic images",,,,90
+case-00270,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00270,D0210,intraoral complete series of radiographic images,,,,160
+case-00270,D4355,full mouth debridement to enable a comprehensive evaluation,,,,225
+case-00271,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,230
+case-00271,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00271,D4381,"localized delivery of antimicrobial agents, per tooth",15,,,95
+case-00272,D7140,"extraction, erupted tooth or exposed root",13,,,230
+case-00272,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00273,D9940,"occlusal guard, by report",,,maxillary,560
+case-00274,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00274,D0210,intraoral complete series of radiographic images,,,,160
+case-00274,D1110,"prophylaxis, adult",,,,120
+case-00275,D9940,"occlusal guard, by report",,,mandibular,645
+case-00276,D4910,periodontal maintenance,,,,150
+case-00276,D0120,"periodic oral evaluation, established patient",,,,65
+case-00276,D0274,"bitewings, four radiographic images",,,,95
+case-00277,D9940,"occlusal guard, by report",,,maxillary,690
+case-00278,D6750,"retainer crown, porcelain fused to high noble metal",11,,,1440
+case-00278,D6240,"pontic, porcelain fused to high noble metal",12,,,1320
+case-00278,D6750,"retainer crown, porcelain fused to high noble metal",13,,,1440
+case-00279,D2150,"amalgam, two surfaces, primary or permanent",12,OD,,215
+case-00279,D2393,"resin-based composite, three surfaces, posterior",14,MOB,,315
+case-00279,D2391,"resin-based composite, one surface, posterior",20,O,,215
+case-00280,D2740,"crown, porcelain/ceramic",4,,,1325
+case-00280,D2950,"core buildup, including any pins when required",4,,,380
+case-00281,D0120,"periodic oral evaluation, established patient",,,,60
+case-00281,D1110,"prophylaxis, adult",,,,115
+case-00281,D0274,"bitewings, four radiographic images",,,,70
+case-00282,D2740,"crown, porcelain/ceramic",,,,1200
+case-00282,D2950,"core buildup, including any pins when required",14,,,365
+case-00283,D0330,panoramic radiographic image,,,,160
+case-00283,D7240,"removal of impacted tooth, completely bony",1,,,620
+case-00283,D7240,"removal of impacted tooth, completely bony",16,,,620
+case-00283,D7240,"removal of impacted tooth, completely bony",17,,,620
+case-00283,D7240,"removal of impacted tooth, completely bony",32,,,620
+case-00283,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,80
+case-00284,D0120,"periodic oral evaluation, established patient",,,,65
+case-00284,D1110,"prophylaxis, adult",,,,135
+case-00284,D0274,"bitewings, four radiographic images",,,,95
+case-00284,D1206,topical application of fluoride varnish,,,,40
+case-00285,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00285,D0210,intraoral complete series of radiographic images,,,,160
+case-00285,D1110,"prophylaxis, adult",,,,120
+case-00286,D2750,"crown, porcelain fused to high noble metal",15,,,1400
+case-00287,D0120,"periodic oral evaluation, established patient",,,,65
+case-00287,D1120,"prophylaxis, child",,,,90
+case-00287,D1206,topical application of fluoride varnish,,,,40
+case-00287,D0274,"bitewings, four radiographic images",,,,95
+case-00288,D0120,"periodic oral evaluation, established patient",,,,65
+case-00288,D1110,"prophylaxis, adult",,,,120
+case-00288,D1206,topical application of fluoride varnish,,,,45
+case-00289,D0140,"limited oral evaluation, problem focused",,,,85
+case-00289,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00289,D2940,protective restoration,31,,,115
+case-00290,D0120,"periodic oral evaluation, established patient",,,,65
+case-00290,D1110,"prophylaxis, adult",,,,120
+case-00290,D0274,"bitewings, four radiographic images",,,,90
+case-00290,D1206,topical application of fluoride varnish,,,,45
+case-00291,D2393,"resin-based composite, three surfaces, posterior",5,MOD,,290
+case-00291,D2392,"resin-based composite, two surfaces, posterior",12,MO,,270
+case-00291,D2392,"resin-based composite, two surfaces, posterior",14,OD,,270
+case-00292,D2740,"crown, porcelain/ceramic",20,,,1325
+case-00292,D2950,"core buildup, including any pins when required",20,,,380
+case-00293,D2331,"resin-based composite, two surfaces, anterior",11,DL,,215
+case-00293,D2331,"resin-based composite, two surfaces, anterior",27,DL,,215
+case-00294,D7140,"extraction, erupted tooth or exposed root",20,,,230
+case-00294,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00295,D2740,"crown, porcelain/ceramic",29,,,1325
+case-00295,D2950,"core buildup, including any pins when required",29,,,380
+case-00296,D0120,"periodic oral evaluation, established patient",,,,65
+case-00296,D1110,"prophylaxis, adult",,,,135
+case-00296,D0274,"bitewings, four radiographic images",,,,95
+case-00297,D0330,panoramic radiographic image,,,,155
+case-00297,D7240,"removal of impacted tooth, completely bony",1,,,575
+case-00297,D7230,"removal of impacted tooth, partially bony",16,,,465
+case-00297,D7220,"removal of impacted tooth, soft tissue",17,,,395
+case-00297,D7230,"removal of impacted tooth, partially bony",32,,,465
+case-00297,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,85
+case-00298,D0330,panoramic radiographic image,,,,160
+case-00298,D7240,"removal of impacted tooth, completely bony",1,,,620
+case-00298,D7240,"removal of impacted tooth, completely bony",16,,,620
+case-00298,D7240,"removal of impacted tooth, completely bony",17,,,620
+case-00298,D7240,"removal of impacted tooth, completely bony",32,,,620
+case-00298,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,80
+case-00299,D5213,"maxillary partial denture, cast metal framework",,,maxillary,2085
+case-00300,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00300,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00301,D2750,"crown, porcelain fused to high noble metal",14,,,1205
+case-00301,D2954,prefabricated post and core in addition to crown,14,,,435
+case-00302,D0120,"periodic oral evaluation, established patient",,,,65
+case-00302,D1110,"prophylaxis, adult",,,,125
+case-00302,D0274,"bitewings, four radiographic images",,,,90
+case-00303,D0140,"limited oral evaluation, problem focused",,,,90
+case-00303,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00303,D0230,"intraoral periapical, each additional image",,,,35
+case-00303,D7140,"extraction, erupted tooth or exposed root",19,,,230
+case-00304,D3330,"endodontic therapy, molar tooth",15,,,1235
+case-00304,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00305,D3320,"endodontic therapy, premolar tooth",13,,,1035
+case-00305,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00306,D2332,"resin-based composite, three surfaces, anterior",25,DFL,,240
+case-00307,D7140,"extraction, erupted tooth or exposed root",31,,,180
+case-00307,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00308,D0140,"limited oral evaluation, problem focused",,,,90
+case-00308,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00308,D9110,"palliative treatment of dental pain, per visit",,,,120
+case-00309,D3320,"endodontic therapy, premolar tooth",20,,,1145
+case-00309,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00310,D0140,"limited oral evaluation, problem focused",,,,85
+case-00310,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00311,D0120,"periodic oral evaluation, established patient",,,,65
+case-00311,D1110,"prophylaxis, adult",,,,135
+case-00311,D0274,"bitewings, four radiographic images",,,,95
+case-00312,D2740,"crown, porcelain/ceramic",14,,,1200
+case-00312,D2950,"core buildup, including any pins when required",14,,,365
+case-00313,D9944,"occlusal guard, hard appliance, full arch",,,mandibular,645
+case-00314,D2740,"crown, porcelain/ceramic",14,,,1545
+case-00314,D2950,"core buildup, including any pins when required",14,,,315
+case-00315,D3320,"endodontic therapy, premolar tooth",21,,,1145
+case-00315,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00316,D2750,"crown, porcelain fused to high noble metal",4,,,1400
+case-00316,D2954,prefabricated post and core in addition to crown,4,,,435
+case-00317,D0120,"periodic oral evaluation, established patient",,,,65
+case-00317,D1110,"prophylaxis, adult",,,,135
+case-00317,D1206,topical application of fluoride varnish,,,,40
+case-00318,D2740,"crown, porcelain/ceramic",12,,,1545
+case-00319,D2391,"resin-based composite, one surface, posterior",14,L,,195
+case-00320,D9944,"occlusal guard, hard appliance, full arch",,,maxillary,580
+case-00321,D2740,"crown, porcelain/ceramic",15,,,1325
+case-00322,D0140,"limited oral evaluation, problem focused",,,,90
+case-00322,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00322,D2940,protective restoration,2,,,115
+case-00323,D0120,"periodic oral evaluation, established patient",,,,65
+case-00323,D1110,"prophylaxis, adult",,,,135
+case-00323,D0274,"bitewings, four radiographic images",,,,95
+case-00324,D9944,"occlusal guard, hard appliance, full arch",,,maxillary,645
+case-00325,D2393,"resin-based composite, three surfaces, posterior",15,DOL,,320
+case-00326,D0120,"periodic oral evaluation, established patient",,,,65
+case-00326,D1110,"prophylaxis, adult",,,,135
+case-00327,D2392,"resin-based composite, two surfaces, posterior",14,OD,,245
+case-00327,D2391,"resin-based composite, one surface, posterior",15,L,,220
+case-00327,D2393,"resin-based composite, three surfaces, posterior",21,DOL,,320
+case-00328,D0120,"periodic oral evaluation, established patient",,,,60
+case-00328,D1110,"prophylaxis, adult",,,,115
+case-00328,D0274,"bitewings, four radiographic images",,,,70
+case-00329,D0140,"limited oral evaluation, problem focused",,,,100
+case-00329,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00330,D6750,"retainer crown, porcelain fused to high noble metal",18,,,1295
+case-00330,D6240,"pontic, porcelain fused to high noble metal",19,,,1175
+case-00330,D6750,"retainer crown, porcelain fused to high noble metal",20,,,1295
+case-00331,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,280
+case-00331,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,280
+case-00331,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LL,205
+case-00331,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,280
+case-00332,D0120,"periodic oral evaluation, established patient",,,,65
+case-00332,D1120,"prophylaxis, child",,,,90
+case-00332,D1206,topical application of fluoride varnish,,,,40
+case-00332,D0272,"bitewings, two radiographic images",,,,55
+case-00333,D0120,"periodic oral evaluation, established patient",,,,65
+case-00333,D1110,"prophylaxis, adult",,,,125
+case-00334,D0120,"periodic oral evaluation, established patient",,,,65
+case-00334,D1110,"prophylaxis, adult",,,,120
+case-00334,D1206,topical application of fluoride varnish,,,,45
+case-00335,D0120,"periodic oral evaluation, established patient",,,,60
+case-00335,D1120,"prophylaxis, child",,,,80
+case-00335,D1208,"topical application of fluoride, excluding varnish",,,,35
+case-00335,D1351,"sealant, per tooth",14,O,,60
+case-00335,D1351,"sealant, per tooth",19,O,,60
+case-00335,D1351,"sealant, per tooth",31,O,,60
+case-00336,D0120,"periodic oral evaluation, established patient",,,,60
+case-00336,D1110,"prophylaxis, adult",,,,115
+case-00336,D0274,"bitewings, four radiographic images",,,,70
+case-00336,D1206,topical application of fluoride varnish,,,,45
+case-00337,D2331,"resin-based composite, two surfaces, anterior",,,,245
+case-00337,D2332,"resin-based composite, three surfaces, anterior",22,MFL,,260
+case-00338,D0120,"periodic oral evaluation, established patient",,,,65
+case-00338,D1110,"prophylaxis, adult",,,,120
+case-00339,D6010,"surgical placement of implant body, endosteal",29,,,2655
+case-00340,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,280
+case-00340,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LR,205
+case-00341,D0120,"periodic oral evaluation, established patient",,,,65
+case-00341,D1110,"prophylaxis, adult",,,,125
+case-00341,D0210,intraoral complete series of radiographic images,,,,160
+case-00342,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00342,D0210,intraoral complete series of radiographic images,,,,150
+case-00342,D4355,full mouth debridement to enable a comprehensive evaluation,,,,210
+case-00343,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00343,D0330,panoramic radiographic image,,,,160
+case-00343,D0274,"bitewings, four radiographic images",,,,90
+case-00343,D1110,"prophylaxis, adult",,,,125
+case-00344,D0140,"limited oral evaluation, problem focused",,,,90
+case-00344,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00344,D9110,"palliative treatment of dental pain, per visit",,,,150
+case-00345,D0120,"periodic oral evaluation, established patient",,,,65
+case-00345,D1110,"prophylaxis, adult",,,,120
+case-00345,D0274,"bitewings, four radiographic images",,,,90
+case-00346,D6057,custom fabricated abutment,30,,,810
+case-00346,D6065,implant supported porcelain/ceramic crown,30,,,1710
+case-00347,D2750,"crown, porcelain fused to high noble metal",12,,,1370
+case-00348,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",,,,390
+case-00348,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00348,D7953,"bone replacement graft for ridge preservation, per site",13,,,530
+case-00349,D2740,"crown, porcelain/ceramic",2,,,1325
+case-00349,D2950,"core buildup, including any pins when required",2,,,380
+case-00350,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00350,D0210,intraoral complete series of radiographic images,,,,160
+case-00350,D4355,full mouth debridement to enable a comprehensive evaluation,,,,225
+case-00351,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",2,,,390
+case-00351,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00351,D7953,"bone replacement graft for ridge preservation, per site",2,,,530
+case-00352,D2740,"crown, porcelain/ceramic",28,,,1200
+case-00352,D2954,prefabricated post and core in addition to crown,28,,,435
+case-00353,D0140,"limited oral evaluation, problem focused",,,,85
+case-00353,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00354,D2740,"crown, porcelain/ceramic",14,,,1545
+case-00354,D2950,"core buildup, including any pins when required",14,,,315
+case-00355,D4910,periodontal maintenance,,,,150
+case-00355,D0120,"periodic oral evaluation, established patient",,,,65
+case-00355,D0274,"bitewings, four radiographic images",,,,95
+case-00356,D0140,"limited oral evaluation, problem focused",,,,90
+case-00356,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00356,D0230,"intraoral periapical, each additional image",,,,35
+case-00356,D2940,protective restoration,31,,,100
+case-00357,D0120,"periodic oral evaluation, established patient",,,,60
+case-00357,D1110,"prophylaxis, adult",,,,115
+case-00357,D0274,"bitewings, four radiographic images",,,,70
+case-00358,D0120,"periodic oral evaluation, established patient",,,,65
+case-00358,D1110,"prophylaxis, adult",,,,125
+case-00358,D0274,"bitewings, four radiographic images",,,,90
+case-00358,D1206,topical application of fluoride varnish,,,,55
+case-00359,D0140,"limited oral evaluation, problem focused",,,,100
+case-00359,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00359,D0230,"intraoral periapical, each additional image",,,,35
+case-00359,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00360,D0120,"periodic oral evaluation, established patient",,,,65
+case-00360,D1120,"prophylaxis, child",,,,100
+case-00360,D1206,topical application of fluoride varnish,,,,55
+case-00360,D0274,"bitewings, four radiographic images",,,,90
+case-00361,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00361,D0210,intraoral complete series of radiographic images,,,,160
+case-00361,D4355,full mouth debridement to enable a comprehensive evaluation,,,,225
+case-00362,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,280
+case-00362,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,280
+case-00363,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00363,D0210,intraoral complete series of radiographic images,,,,160
+case-00363,D1110,"prophylaxis, adult",,,,120
+case-00364,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00364,D0210,intraoral complete series of radiographic images,,,,160
+case-00364,D1110,"prophylaxis, adult",,,,125
+case-00365,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,225
+case-00365,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00366,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,300
+case-00366,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00367,D0140,"limited oral evaluation, problem focused",,,,100
+case-00367,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00367,D2940,protective restoration,29,,,120
+case-00368,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,300
+case-00368,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00369,D2740,"crown, porcelain/ceramic",19,,,1325
+case-00369,D2950,"core buildup, including any pins when required",19,,,380
+case-00370,D0120,"periodic oral evaluation, established patient",,,,65
+case-00370,D1110,"prophylaxis, adult",,,,125
+case-00370,D1206,topical application of fluoride varnish,,,,55
+case-00371,D0120,"periodic oral evaluation, established patient",,,,65
+case-00371,D1110,"prophylaxis, adult",,,,120
+case-00371,D0274,"bitewings, four radiographic images",,,,90
+case-00372,D2391,"resin-based composite, one surface, posterior",3,O,,210
+case-00372,D2391,"resin-based composite, one surface, posterior",18,L,,210
+case-00372,D2392,"resin-based composite, two surfaces, posterior",31,MO,,255
+case-00373,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00373,D0330,panoramic radiographic image,,,,150
+case-00373,D0274,"bitewings, four radiographic images",,,,90
+case-00373,D1110,"prophylaxis, adult",,,,120
+case-00374,D0140,"limited oral evaluation, problem focused",,,,100
+case-00374,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00374,D0230,"intraoral periapical, each additional image",,,,35
+case-00374,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00375,D0140,"limited oral evaluation, problem focused",,,,90
+case-00375,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00376,D2740,"crown, porcelain/ceramic",13,,,1200
+case-00377,D0140,"limited oral evaluation, problem focused",,,,100
+case-00377,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00377,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00378,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00378,D0210,intraoral complete series of radiographic images,,,,160
+case-00378,D1110,"prophylaxis, adult",,,,120
+case-00379,D0120,"periodic oral evaluation, established patient",,,,65
+case-00379,D1120,"prophylaxis, child",,,,95
+case-00379,D1206,topical application of fluoride varnish,,,,45
+case-00379,D0274,"bitewings, four radiographic images",,,,90
+case-00380,D0120,"periodic oral evaluation, established patient",,,,65
+case-00380,D1110,"prophylaxis, adult",,,,125
+case-00380,D0274,"bitewings, four radiographic images",,,,90
+case-00380,D1206,topical application of fluoride varnish,,,,55
+case-00381,D4910,periodontal maintenance,,,,150
+case-00381,D0120,"periodic oral evaluation, established patient",,,,65
+case-00382,D4910,periodontal maintenance,,,,155
+case-00382,D0120,"periodic oral evaluation, established patient",,,,65
+case-00383,D4910,periodontal maintenance,,,,155
+case-00383,D0120,"periodic oral evaluation, established patient",,,,60
+case-00384,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00384,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00385,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,300
+case-00385,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00386,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UL,205
+case-00386,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,280
+case-00386,D4381,"localized delivery of antimicrobial agents, per tooth",31,,,95
+case-00387,D7140,"extraction, erupted tooth or exposed root",3,,,230
+case-00387,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00388,D0140,"limited oral evaluation, problem focused",,,,100
+case-00388,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00388,D0230,"intraoral periapical, each additional image",,,,35
+case-00389,D2391,"resin-based composite, one surface, posterior",15,O,,195
+case-00390,D3330,"endodontic therapy, molar tooth",15,,,1280
+case-00390,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00391,D0120,"periodic oral evaluation, established patient",,,,65
+case-00391,D1110,"prophylaxis, adult",,,,125
+case-00391,D0274,"bitewings, four radiographic images",,,,90
+case-00392,D0120,"periodic oral evaluation, established patient",,,,65
+case-00392,D1110,"prophylaxis, adult",,,,135
+case-00392,D1206,topical application of fluoride varnish,,,,40
+case-00393,D2740,"crown, porcelain/ceramic",3,,,1200
+case-00393,D2950,"core buildup, including any pins when required",3,,,315
+case-00394,D0120,"periodic oral evaluation, established patient",,,,65
+case-00394,D1110,"prophylaxis, adult",,,,125
+case-00394,D0274,"bitewings, four radiographic images",,,,90
+case-00395,D0140,"limited oral evaluation, problem focused",,,,90
+case-00395,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00395,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",14,,,345
+case-00396,D0120,"periodic oral evaluation, established patient",,,,65
+case-00396,D1110,"prophylaxis, adult",,,,135
+case-00396,D1206,topical application of fluoride varnish,,,,40
+case-00397,D2392,"resin-based composite, two surfaces, posterior",14,OD,,270
+case-00397,D2391,"resin-based composite, one surface, posterior",21,O,,195
+case-00397,D2393,"resin-based composite, three surfaces, posterior",31,MOB,,290
+case-00398,D0120,"periodic oral evaluation, established patient",,,,60
+case-00398,D1110,"prophylaxis, adult",,,,115
+case-00398,D0274,"bitewings, four radiographic images",,,,70
+case-00399,D2392,"resin-based composite, two surfaces, posterior",13,OB,,240
+case-00399,D2140,"amalgam, one surface, primary or permanent",14,L,,140
+case-00400,D0120,"periodic oral evaluation, established patient",,,,65
+case-00400,D1110,"prophylaxis, adult",,,,125
+case-00400,D0210,intraoral complete series of radiographic images,,,,160
+case-00401,D0150,"comprehensive oral evaluation, new or established patient",,,,115
+case-00401,D0210,intraoral complete series of radiographic images,,,,170
+case-00401,D4355,full mouth debridement to enable a comprehensive evaluation,,,,205
+case-00402,D0120,"periodic oral evaluation, established patient",,,,65
+case-00402,D1110,"prophylaxis, adult",,,,120
+case-00403,D2740,"crown, porcelain/ceramic",3,,,1325
+case-00404,D0140,"limited oral evaluation, problem focused",,,,90
+case-00404,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00404,D0230,"intraoral periapical, each additional image",,,,35
+case-00404,D9110,"palliative treatment of dental pain, per visit",,,,150
+case-00405,D2740,"crown, porcelain/ceramic",13,,,1200
+case-00405,D2950,"core buildup, including any pins when required",13,,,365
+case-00406,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00406,D0210,intraoral complete series of radiographic images,,,,150
+case-00406,D1110,"prophylaxis, adult",,,,135
+case-00407,D2750,"crown, porcelain fused to high noble metal",20,,,1205
+case-00407,D2950,"core buildup, including any pins when required",20,,,380
+case-00408,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00408,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00409,D0120,"periodic oral evaluation, established patient",,,,65
+case-00409,D1120,"prophylaxis, child",,,,90
+case-00409,D1206,topical application of fluoride varnish,,,,40
+case-00409,D0274,"bitewings, four radiographic images",,,,95
+case-00410,D0120,"periodic oral evaluation, established patient",,,,65
+case-00410,D1110,"prophylaxis, adult",,,,125
+case-00410,D0274,"bitewings, four radiographic images",,,,90
+case-00411,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00411,D0330,panoramic radiographic image,,,,155
+case-00411,D0274,"bitewings, four radiographic images",,,,95
+case-00411,D1110,"prophylaxis, adult",,,,135
+case-00412,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,275
+case-00412,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,LL,230
+case-00413,D2392,"resin-based composite, two surfaces, posterior",14,OB,,255
+case-00413,D2392,"resin-based composite, two surfaces, posterior",31,OB,,255
+case-00414,D0120,"periodic oral evaluation, established patient",,,,65
+case-00414,D1110,"prophylaxis, adult",,,,120
+case-00414,D0274,"bitewings, four radiographic images",,,,90
+case-00415,D2740,"crown, porcelain/ceramic",21,,,1545
+case-00415,D2950,"core buildup, including any pins when required",21,,,315
+case-00416,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,300
+case-00416,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00417,D6010,"surgical placement of implant body, endosteal",3,,,2105
+case-00418,D2740,"crown, porcelain/ceramic",30,,,1325
+case-00419,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00419,D0210,intraoral complete series of radiographic images,,,,160
+case-00419,D1110,"prophylaxis, adult",,,,125
+case-00420,D2391,"resin-based composite, one surface, posterior",2,O,,215
+case-00420,D2393,"resin-based composite, three surfaces, posterior",12,MOD,,315
+case-00421,D0120,"periodic oral evaluation, established patient",,,,65
+case-00421,D1110,"prophylaxis, adult",,,,135
+case-00421,D0274,"bitewings, four radiographic images",,,,95
+case-00422,D0330,panoramic radiographic image,,,,160
+case-00422,D7230,"removal of impacted tooth, partially bony",1,,,475
+case-00422,D7220,"removal of impacted tooth, soft tissue",16,,,410
+case-00422,D7230,"removal of impacted tooth, partially bony",17,,,475
+case-00422,D7220,"removal of impacted tooth, soft tissue",32,,,410
+case-00422,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,80
+case-00423,D3320,"endodontic therapy, premolar tooth",21,,,1145
+case-00423,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00424,D2750,"crown, porcelain fused to high noble metal",14,,,1205
+case-00424,D2950,"core buildup, including any pins when required",14,,,380
+case-00425,D0120,"periodic oral evaluation, established patient",,,,65
+case-00425,D1110,"prophylaxis, adult",,,,120
+case-00425,D0274,"bitewings, four radiographic images",,,,90
+case-00426,D0330,panoramic radiographic image,,,,155
+case-00426,D7220,"removal of impacted tooth, soft tissue",1,,,395
+case-00426,D7230,"removal of impacted tooth, partially bony",16,,,465
+case-00426,D7240,"removal of impacted tooth, completely bony",17,,,575
+case-00426,D7230,"removal of impacted tooth, partially bony",32,,,465
+case-00426,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,85
+case-00427,D0120,"periodic oral evaluation, established patient",,,,65
+case-00427,D1110,"prophylaxis, adult",,,,125
+case-00428,D6057,custom fabricated abutment,28,,,650
+case-00428,D6065,implant supported porcelain/ceramic crown,28,,,1390
+case-00429,D2740,"crown, porcelain/ceramic",3,,,1200
+case-00430,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00430,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,300
+case-00430,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00430,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00431,D7140,"extraction, erupted tooth or exposed root",20,,,180
+case-00431,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00431,D7953,"bone replacement graft for ridge preservation, per site",20,,,530
+case-00432,D0140,"limited oral evaluation, problem focused",,,,90
+case-00432,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00433,D2740,"crown, porcelain/ceramic",15,,,1200
+case-00434,D2740,"crown, porcelain/ceramic",14,,,1200
+case-00434,D2954,prefabricated post and core in addition to crown,14,,,435
+case-00435,D0120,"periodic oral evaluation, established patient",,,,65
+case-00435,D1120,"prophylaxis, child",,,,100
+case-00435,D1206,topical application of fluoride varnish,,,,55
+case-00436,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,230
+case-00436,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00437,D2393,"resin-based composite, three surfaces, posterior",4,MOB,,290
+case-00437,D2391,"resin-based composite, one surface, posterior",18,B,,195
+case-00437,D2391,"resin-based composite, one surface, posterior",31,O,,195
+case-00438,D2740,"crown, porcelain/ceramic",2,,,1325
+case-00438,D2950,"core buildup, including any pins when required",2,,,380
+case-00439,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,230
+case-00439,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,275
+case-00439,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,275
+case-00439,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00440,D2750,"crown, porcelain fused to high noble metal",28,,,1400
+case-00441,D0140,"limited oral evaluation, problem focused",,,,100
+case-00441,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00441,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00442,D0120,"periodic oral evaluation, established patient",,,,60
+case-00442,D1120,"prophylaxis, child",,,,80
+case-00442,D1206,topical application of fluoride varnish,,,,45
+case-00442,D0274,"bitewings, four radiographic images",,,,70
+case-00443,D2392,"resin-based composite, two surfaces, posterior",3,OD,,255
+case-00443,D2391,"resin-based composite, one surface, posterior",31,O,,210
+case-00444,D0150,"comprehensive oral evaluation, new or established patient",,,,105
+case-00444,D0210,intraoral complete series of radiographic images,,,,160
+case-00444,D1110,"prophylaxis, adult",,,,125
+case-00445,D0120,"periodic oral evaluation, established patient",,,,65
+case-00445,D1110,"prophylaxis, adult",,,,120
+case-00445,D0274,"bitewings, four radiographic images",,,,90
+case-00446,D0140,"limited oral evaluation, problem focused",,,,85
+case-00446,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00446,D9110,"palliative treatment of dental pain, per visit",,,,130
+case-00447,D2740,"crown, porcelain/ceramic",13,,,1545
+case-00448,D4342,"periodontal scaling and root planing, one to three teeth per quadrant",,,UR,205
+case-00448,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,280
+case-00448,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,280
+case-00448,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,280
+case-00449,D0330,panoramic radiographic image,,,,150
+case-00449,D7230,"removal of impacted tooth, partially bony",1,,,555
+case-00449,D7220,"removal of impacted tooth, soft tissue",16,,,375
+case-00449,D7240,"removal of impacted tooth, completely bony",17,,,540
+case-00449,D7240,"removal of impacted tooth, completely bony",32,,,540
+case-00449,D9230,"inhalation of nitrous oxide / analgesia, anxiolysis",,,,75
+case-00450,D2740,"crown, porcelain/ceramic",,,,1200
+case-00451,D0120,"periodic oral evaluation, established patient",,,,65
+case-00451,D1110,"prophylaxis, adult",,,,120
+case-00451,D0274,"bitewings, four radiographic images",,,,90
+case-00451,D1206,topical application of fluoride varnish,,,,45
+case-00452,D2330,"resin-based composite, one surface, anterior",6,L,,175
+case-00452,D2332,"resin-based composite, three surfaces, anterior",8,DFL,,265
+case-00453,D9940,"occlusal guard, by report",,,mandibular,560
+case-00454,D0120,"periodic oral evaluation, established patient",,,,65
+case-00454,D1110,"prophylaxis, adult",,,,135
+case-00454,D0274,"bitewings, four radiographic images",,,,95
+case-00455,D0140,"limited oral evaluation, problem focused",,,,90
+case-00455,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00455,D0230,"intraoral periapical, each additional image",,,,35
+case-00455,D2940,protective restoration,13,,,115
+case-00456,D2740,"crown, porcelain/ceramic",29,,,1325
+case-00456,D2950,"core buildup, including any pins when required",29,,,380
+case-00457,D2740,"crown, porcelain/ceramic",29,,,1200
+case-00458,D2750,"crown, porcelain fused to high noble metal",18,,,1165
+case-00458,D2950,"core buildup, including any pins when required",18,,,365
+case-00459,D0120,"periodic oral evaluation, established patient",,,,65
+case-00459,D1110,"prophylaxis, adult",,,,125
+case-00459,D0274,"bitewings, four radiographic images",,,,90
+case-00460,D9940,"occlusal guard, by report",,,maxillary,645
+case-00461,D9944,"occlusal guard, hard appliance, full arch",,,maxillary,580
+case-00462,D0140,"limited oral evaluation, problem focused",,,,85
+case-00462,D0220,"intraoral periapical, first radiographic image",,,,30
+case-00462,D7140,"extraction, erupted tooth or exposed root",18,,,240
+case-00463,D3310,"endodontic therapy, anterior tooth",9,,,920
+case-00463,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00464,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,275
+case-00464,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,275
+case-00465,D2740,"crown, porcelain/ceramic",,,,1545
+case-00465,D2950,"core buildup, including any pins when required",4,,,315
+case-00466,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00466,D0330,panoramic radiographic image,,,,155
+case-00466,D0274,"bitewings, four radiographic images",,,,95
+case-00466,D4355,full mouth debridement to enable a comprehensive evaluation,,,,210
+case-00467,D2740,"crown, porcelain/ceramic",3,,,1325
+case-00468,D0120,"periodic oral evaluation, established patient",,,,65
+case-00468,D1110,"prophylaxis, adult",,,,120
+case-00468,D0274,"bitewings, four radiographic images",,,,90
+case-00469,D2740,"crown, porcelain/ceramic",18,,,1200
+case-00469,D2950,"core buildup, including any pins when required",18,,,315
+case-00470,D2393,"resin-based composite, three surfaces, posterior",31,MOD,,320
+case-00471,D7210,"extraction, erupted tooth requiring removal of bone and/or sectioning",15,,,390
+case-00471,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00472,D2392,"resin-based composite, two surfaces, posterior",5,OB,,255
+case-00472,D2391,"resin-based composite, one surface, posterior",20,O,,210
+case-00473,D0150,"comprehensive oral evaluation, new or established patient",,,,100
+case-00473,D0330,panoramic radiographic image,,,,150
+case-00473,D0274,"bitewings, four radiographic images",,,,90
+case-00473,D1110,"prophylaxis, adult",,,,120
+case-00474,D0120,"periodic oral evaluation, established patient",,,,65
+case-00474,D1110,"prophylaxis, adult",,,,125
+case-00474,D0274,"bitewings, four radiographic images",,,,90
+case-00475,D0150,"comprehensive oral evaluation, new or established patient",,,,115
+case-00475,D0330,panoramic radiographic image,,,,155
+case-00475,D0274,"bitewings, four radiographic images",,,,70
+case-00475,D1110,"prophylaxis, adult",,,,115
+case-00476,D0120,"periodic oral evaluation, established patient",,,,60
+case-00476,D1120,"prophylaxis, child",,,,80
+case-00476,D1206,topical application of fluoride varnish,,,,45
+case-00476,D0274,"bitewings, four radiographic images",,,,70
+case-00477,D0140,"limited oral evaluation, problem focused",,,,100
+case-00477,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00477,D9110,"palliative treatment of dental pain, per visit",,,,140
+case-00478,D0120,"periodic oral evaluation, established patient",,,,65
+case-00478,D1110,"prophylaxis, adult",,,,125
+case-00478,D0274,"bitewings, four radiographic images",,,,90
+case-00479,D2740,"crown, porcelain/ceramic",13,,,1200
+case-00480,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,300
+case-00480,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,300
+case-00480,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,300
+case-00480,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,300
+case-00480,D4381,"localized delivery of antimicrobial agents, per tooth",31,,,105
+case-00481,D0330,panoramic radiographic image,,,,155
+case-00481,D7240,"removal of impacted tooth, completely bony",1,,,575
+case-00481,D7220,"removal of impacted tooth, soft tissue",16,,,395
+case-00481,D7230,"removal of impacted tooth, partially bony",17,,,465
+case-00481,D7240,"removal of impacted tooth, completely bony",32,,,575
+case-00482,D2740,"crown, porcelain/ceramic",15,,,1545
+case-00482,D2950,"core buildup, including any pins when required",15,,,315
+case-00483,D2740,"crown, porcelain/ceramic",19,,,1200
+case-00483,D2950,"core buildup, including any pins when required",19,,,365
+case-00484,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UL,280
+case-00484,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LL,280
+case-00485,D2150,"amalgam, two surfaces, primary or permanent",4,OB,,205
+case-00485,D2392,"resin-based composite, two surfaces, posterior",21,MO,,245
+case-00486,D2740,"crown, porcelain/ceramic",19,,,1325
+case-00486,D2954,prefabricated post and core in addition to crown,19,,,435
+case-00487,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,UR,305
+case-00487,D4341,"periodontal scaling and root planing, four or more teeth per quadrant",,,LR,305
+case-00487,D4381,"localized delivery of antimicrobial agents, per tooth",3,,,105
+case-00488,D0120,"periodic oral evaluation, established patient",,,,65
+case-00488,D1120,"prophylaxis, child",,,,90
+case-00488,D1206,topical application of fluoride varnish,,,,40
+case-00488,D0272,"bitewings, two radiographic images",,,,55
+case-00489,D0150,"comprehensive oral evaluation, new or established patient",,,,115
+case-00489,D0210,intraoral complete series of radiographic images,,,,170
+case-00489,D1110,"prophylaxis, adult",,,,115
+case-00490,D0120,"periodic oral evaluation, established patient",,,,65
+case-00490,D1110,"prophylaxis, adult",,,,135
+case-00491,D2392,"resin-based composite, two surfaces, posterior",12,OB,,240
+case-00492,D2392,"resin-based composite, two surfaces, posterior",31,OB,,270
+case-00493,D2740,"crown, porcelain/ceramic",5,,,1325
+case-00493,D2950,"core buildup, including any pins when required",5,,,380
+case-00494,D2392,"resin-based composite, two surfaces, posterior",3,OD,,240
+case-00494,D2392,"resin-based composite, two surfaces, posterior",18,MO,,240
+case-00494,D2392,"resin-based composite, two surfaces, posterior",21,OD,,240
+case-00495,D0120,"periodic oral evaluation, established patient",,,,65
+case-00495,D1110,"prophylaxis, adult",,,,135
+case-00495,D0274,"bitewings, four radiographic images",,,,95
+case-00496,D7140,"extraction, erupted tooth or exposed root",28,,,180
+case-00496,D0220,"intraoral periapical, first radiographic image",,,,40
+case-00496,D7953,"bone replacement graft for ridge preservation, per site",28,,,530
+case-00497,D2392,"resin-based composite, two surfaces, posterior",21,MO,,245
+case-00497,D2392,"resin-based composite, two surfaces, posterior",31,OD,,245
+case-00498,D0120,"periodic oral evaluation, established patient",,,,65
+case-00498,D1110,"prophylaxis, adult",,,,125
+case-00498,D0274,"bitewings, four radiographic images",,,,90
+case-00499,D2391,"resin-based composite, one surface, posterior",28,O,,195
+case-00499,D2392,"resin-based composite, two surfaces, posterior",29,OD,,270
+case-00500,D3310,"endodontic therapy, anterior tooth",7,,,995
+case-00500,D0220,"intraoral periapical, first radiographic image",,,,40
